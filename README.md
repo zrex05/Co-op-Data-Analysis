@@ -3,12 +3,12 @@ This is a compilation of data analysis during time of research in nanophotonics 
 
 The "Error in Co-op Functions.R" file is used to calculate the errors that occur when either the known real or known imaginary refractive indices are put through the Kramers-Kronig function.
 
-    The Kramers-Kronig function can be found in the following files:
+   The Kramers-Kronig function can be found in the following files:
     
-    "Test_n_function.m" and "Test_k_function.m" are the functions used to put the refractive indices of known materials to the      test to see how accurate the function will perform come time to use custom values.
-    "Test_n_function.m" solves for n (real) values and "Test_k_function.m" solves for k (imaginary) values
+   "Test_n_function.m" and "Test_k_function.m" are the functions used to put the refractive indices of known materials to the     test to see how accurate the function will perform come time to use custom values.
     
-    "n_function.m" is used with custom k values to find n values and "k_function.m" is used with custom n values to find k          values
+   "Test_n_function.m" solves for n (real) values and "Test_k_function.m" solves for k (imaginary) values
+   "n_function.m" is used with custom k values to find n values and "k_function.m" is used with custom n values to find k         values
     
     
     
